@@ -1,0 +1,45 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+span {
+    color: darkcyan;
+}
+
+.fexi-item {
+    display: flex;
+    margin-bottom: 100px;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(purple, cyan);
+    color: white;
+    padding: 10px 20px;
+    font-weight: 250px;
+
+}
+
+.top-banner {
+    background-image: url(hsb/u.png);
+    background-repeat: no-repeat;
+    background-size: 310px;
+}
+
+.half-width {
+    width: 50%;
+}
+
+.half-width img {
+    width: 50%;
+}
