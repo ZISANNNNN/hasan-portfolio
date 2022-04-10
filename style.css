@@ -12,7 +12,7 @@ h2 {
     font-size: 30px;
 }
 
-span {
+.darkcyan {
     color: darkcyan;
 }
 
@@ -42,4 +42,35 @@ span {
 
 .half-width img {
     width: 50%;
+}
+
+.exprence-area {
+    background-image: url(hsb/i.png);
+    background-repeat: no-repeat;
+    background-position: left;
+
+
+}
+
+#full-stak {
+    border-left: 10px solid;
+    border-color: blueviolet;
+    border-image-slice: 1;
+}
+
+#baby-web {
+    border-left: 10px solid;
+    border-color: aqua;
+    border-image-slice: 1;
+}
+
+.exprence-item {
+    box-shadow: 10px 20px 10px grey;
+    width: 50%;
+    margin-left: 5%;
+    padding-left: 2%;
+    border-radius: 10px;
+
+
+
 }
